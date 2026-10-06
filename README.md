@@ -1,13 +1,14 @@
-## Salve salve.. eu sou o Sérgio Melim! 👋
+## Salve salve.. eu sou o Sérgio Melim! 👋 
 
+<p>
+   <img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=SergioMelim&theme=github-dark-blue&hide_border=false" />
+</p>
+<!--  
 <div>
-  <a href="https://github.com/SergioMelim">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=SergioMelim&show_icons=true&theme=github_dark&hide_rank=true&include_all_commits=true" />
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioMelim&layout=compact&langs_count=6&theme=github_dark" />
-  </a>
+  <img valign="top" src="https://github-readme-stats.vercel.app/api?username=SergioMelim&show_icons=true&theme=github_dark&hide_rank=true&include_all_commits=true" />
+  <img valign="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioMelim&layout=compact&langs_count=8&theme=github_dark" />
 </div>
-
-<br/>
+-->
 
 ### 🛠️ Tecnologias & Ferramentas
 <div>
@@ -20,7 +21,18 @@
   <img align="center" alt="CSS3" height="34" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-<br/>
+
+### 📬 Contato
+<div>
+  <a href="https://www.linkedin.com/in/sergiomelim" target="_blank">
+    <img align="center" alt="LinkedIn" height="34" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
+  </a>
+  &nbsp;
+  <a href="mailto:smelim21@gmail.com">
+    <img align="center" alt="Email" height="34" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg">
+  </a>
+</div>
+
 
 ### 🐍 Contribuições
 <picture>
