@@ -1,5 +1,10 @@
 ## Salve salve.. eu sou o Sérgio Melim! 👋 
 
+<img align="center" alt="UFABC" height="20" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Ufabc_logo.png/1280px-Ufabc_logo.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=thumbnail" /> Graduando em <strong>Ciência da Computação</strong><br/>
+💡 Foco em **Algoritmos, Estruturas de Dados e Resolução Analítica de Problemas**<br/>
+⚙️ Stack Principal: **Python | TypeScript | React** <br/> 
+🚀 Aplicando fundamentos teóricos sólidos no desenvolvimento de aplicações escaláveis e APIs robustas.
+
 <p>
    <img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=SergioMelim&theme=github-dark-blue&hide_border=false" />
 </p>
